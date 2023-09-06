@@ -45,7 +45,7 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/realMlgmXyysd?color=1ca0f1&label=%40Dadaya&logo=twitter&logoColor=white&style=flat-square&labelColor=1ca0f1)](https://twitter.com/gmf3t8KaHX4LtxK)
 [![BiliBili](https://img.shields.io/badge/-哒哒哒哒哒哒ya-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/234862638)
-[![Youtube](https://img.shields.io/badge/-Da-Lang-ff0000?style=flat-square&logo=YouTube&logoColor=white&labelColor=ff0000)](https://www.youtube.com/channel/UCZWwKb0FEqVLjBrDTedE4Yg)
+[![Youtube](https://img.shields.io/badge/-Da_Lang-ff0000?style=flat-square&logo=Youtube&logoColor=white&labelColor=ff0000)](https://www.youtube.com/channel/UCZWwKb0FEqVLjBrDTedE4Yg)
 [![Tiktok](https://img.shields.io/badge/-哒哒ya-080808?style=flat-square&logo=tiktok&logoColor=white&labelColor=080808)](https://www.douyin.com/user/MS4wLjABAAAAmJqw1ciTIKBc73lZ-j1XP49-WobiVc7fE65srF518DQ)
 [![E-Mail](https://img.shields.io/badge/-robjffian@gmail.com-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](gmail:robjffian@gamil)
 
