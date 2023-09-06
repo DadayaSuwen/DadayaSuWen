@@ -45,7 +45,7 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/realMlgmXyysd?color=1ca0f1&label=%40Dadaya&logo=twitter&logoColor=white&style=flat-square&labelColor=1ca0f1)](https://twitter.com/gmf3t8KaHX4LtxK)
 [![BiliBili](https://img.shields.io/badge/-哒哒哒哒哒哒ya-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/234862638)
-[![Youtube](https://img.shields.io/badge/-Da Lang-ff0000?style=flat-square&logo=YouTube&logoColor=white&labelColor=ff0000)](https://www.youtube.com/channel/UCZWwKb0FEqVLjBrDTedE4Yg)
+[![Youtube](https://img.shields.io/badge/-Da-Lang-ff0000?style=flat-square&logo=YouTube&logoColor=white&labelColor=ff0000)](https://www.youtube.com/channel/UCZWwKb0FEqVLjBrDTedE4Yg)
 [![Tiktok](https://img.shields.io/badge/-哒哒ya-080808?style=flat-square&logo=tiktok&logoColor=white&labelColor=080808)](https://www.douyin.com/user/MS4wLjABAAAAmJqw1ciTIKBc73lZ-j1XP49-WobiVc7fE65srF518DQ)
 [![E-Mail](https://img.shields.io/badge/-robjffian@gmail.com-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](gmail:robjffian@gamil)
 
@@ -58,4 +58,3 @@
 ![Android 11](https://img.shields.io/badge/Android_11-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Wear OS H](https://img.shields.io/badge/Wear%20OS%20H-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
 ![iOS 16.3.1](https://img.shields.io/badge/iOS%2016.3.1-000000?style=flat-square&logo=iOS&logoColor=ffffff)
-
