@@ -2,26 +2,6 @@
 
 # 哒哒ya(DadayaSuWen) 🔭
 
-### Hi there 👋 This... It's me? Okay.
-
-💬 a.k.a. Wen OuYang, Wen.
-
-> ⚡ I'm passionate about technology, open source, intelligence, and convenience..
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=DadayaSuwen&hide_border=true&title_color=000&layout=compact">
-
-- Like play, Genshin Impact G~~~ 🐱
-- Chinese / 21 y.o. / Salaryman
-- zh-CN / en-US / ~~ru-RU / ja-JP~~ (Learning!)
-- Programmer / Developer / Coder / Engineer
-- [XDA Recognized Developer](https://forum.xda-developers.com/m/dadayasuwen.12693267/)
-- Amateur Tipster
-- Real / Virtual Games Lover
-
-💖 Let's give it a shot! Go on and catch the dream!
-
-🤔 Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button.
-
 ## 🌱 Programming Languages
 ![Batch](https://img.shields.io/badge/-Batch-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
