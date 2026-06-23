@@ -13,8 +13,6 @@
 ![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
 
 
-<img align="left" style="zoom: 30%;" src="https://p3-pc-sign.douyinpic.com/aweme-avatar/tos-cn-i-0813c001_5240f11a140743ba9e6756cff060ba9b~tplv-8yspqt5zfm-300x300.webp?x-expires=1694156400&x-signature=wvDAMFOPHcz7HPzYY43r5dItiMM%3D&from=2480802190" >
-
 ## 📫 Get in Touch
 
 
