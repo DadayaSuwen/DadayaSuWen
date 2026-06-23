@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DadayaSuwen&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=懒狗一条&count_private=true">
-
 # 哒哒ya(DadayaSuWen) 🔭
 
 ## 🌱 Programming Languages
@@ -14,9 +12,6 @@
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=PHP&logoColor=fff)
 ![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
 
-😠 **"I don't like working."**
-
-## 😋My social media platform accounts.
 
 <img align="left" style="zoom: 30%;" src="https://p3-pc-sign.douyinpic.com/aweme-avatar/tos-cn-i-0813c001_5240f11a140743ba9e6756cff060ba9b~tplv-8yspqt5zfm-300x300.webp?x-expires=1694156400&x-signature=wvDAMFOPHcz7HPzYY43r5dItiMM%3D&from=2480802190" >
 
